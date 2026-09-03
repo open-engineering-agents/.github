@@ -1,6 +1,8 @@
-Open Engineering Agents
+# Open Engineering Agents
 
 Open Engineering Agents is the agent layer of the Open Engineering ecosystem.
+
+![Open Engineering Agents hero-banner.png](../assets/hero-banner.png)
 
 We explore how AI agents can become first-class engineering elements: defined, composed, orchestrated, executed, observed, and continuously improved as part of an open engineering system.
 
@@ -8,7 +10,7 @@ Agents are not chatbots. Agents are engineering elements.
 
 ⸻
 
-What we build
+## What we build
 
 Open Engineering Agents provides the foundations for engineering with autonomous and collaborative agents.
 
